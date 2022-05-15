@@ -36,3 +36,18 @@ Power BI , Python Script
 
 ## Result link :
 https://sysphcd.github.io/PythonScriptInPowerBI_Swarmplot.html
+
+
+# Shape MAP 
+
+## Method
+activate shapeMap in Power BI
+https://mapshaper.org/  - update the shape projection to wgs84
+https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3 - choose a color pattern
+
+## Dataset 
+HoC2019GE_results_by_constituency.xlsx
+Source: https://commonslibrary.parliament.uk/research-briefings/cbp-8749/
+
+## Result link :
+https://app.powerbi.com/groups/me/reports/d2ccd3ef-dedb-4ee9-b66b-bdc716af3991/ReportSection
