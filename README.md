@@ -75,3 +75,15 @@ process data in Python and created the report in Power BI
 
 ## result link : 
 [incomedeprived_medianenergy.html](https://sysphcd.github.io/incomedeprived_medianenergy.html)
+
+
+# 7. Donut Chart Exercise
+
+## Dataset source
+
+
+## Method
+created the report in Power BI
+
+## result link : 
+[DonutChart Exercise](https://sysphcd.github.io/DonutChart_exercise.html)
