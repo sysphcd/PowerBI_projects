@@ -21,7 +21,7 @@ Power BI
 Get Data from raw data in Github website. Generate a Hex map of UK
 
 ## Result link :
-https://sysphcd.github.io/ukareas_population_benifit2017.html
+
 https://sysphcd.github.io/ukpopulationOnBenefit2017.html
 
 # 3. Work with Python Script in PowerBI - Swarmplot
